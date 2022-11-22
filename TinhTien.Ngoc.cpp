@@ -7,10 +7,9 @@ int main(){
 	// T1 la gia tien 1 cuon so tay.
 	// T10 la gia tien 10 cuon so tay.
 	// T la tong tien 10 cuon so tay sau khi giam 20%.
-	int T1 = 500;
+	int T1 = 500, T10, T;
 	
 	//Tinh tong va hien thi
-	int T10, T;
 	T10 = T1*10;
 	T = T10 - ((T10*20)/100);
 	
