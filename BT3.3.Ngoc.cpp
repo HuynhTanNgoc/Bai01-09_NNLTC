@@ -6,7 +6,7 @@ int main(){
 	scanf("%f", &diem);
 	
 	if(9<=diem && diem<=10)
-		printf("Xuat sac");
+	   printf("Xuat sac");
 		
 		else if(8<=diem && diem<9)
 			printf("Gioi");
