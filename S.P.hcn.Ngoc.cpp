@@ -1,4 +1,4 @@
-//Tnh chu vi va dien tich hcn co chieu dai (m) , chieu rong (n).
+//Tinh chu vi va dien tich hcn co chieu dai (m) , chieu rong (n).
 #include<stdio.h>
 int main(){
 	int d, r;
