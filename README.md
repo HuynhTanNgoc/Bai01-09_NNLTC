@@ -13,7 +13,7 @@
 ##Thực hành:
 
 Bài 1:
-[BT1](https://www.jdoodle.com/embed/v0/5D3Y).
+[BT1.0](https://www.jdoodle.com/embed/v0/5D3Y).
 [BT1.1](https://www.jdoodle.com/embed/v0/5yGY).
 
 Bài 2: 
