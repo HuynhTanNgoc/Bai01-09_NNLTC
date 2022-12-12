@@ -2,6 +2,8 @@
 
 ##Lý thuyết:
 
+[Bài 1: Các thành phần cơ bản trong ngôn ngữ C](https://hoctructuyencntt.github.io/NNLT/Bai01.html).
+
 [Bài 2: Các câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html).
 
 [Bài 3: Các câu lệnh rẽ nhánh](https://hoctructuyencntt.github.io/NNLT/Bai03.html).
@@ -9,6 +11,9 @@
 [Bài 4: Câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html).
 
 ##Thực hành:
+
+Bài 1;
+[BT1](https://www.jdoodle.com/embed/v0/5D3Y).
 
 Bài 2: 
 [BT2.1](https://www.jdoodle.com/embed/v0/5yH0).
