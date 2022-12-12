@@ -12,7 +12,7 @@
 
 ##Thực hành:
 
-Bài 1;
+Bài 1:
 [BT1](https://www.jdoodle.com/embed/v0/5D3Y).
 
 Bài 2: 
