@@ -23,5 +23,5 @@ Bài 3:
 Bài 4: 
 [BT4.1](https://www.jdoodle.com/embed/v0/5Ayx).
 [BT4.2](https://www.jdoodle.com/embed/v0/5B31).
-[BT4.3]
+[BT4.3].
 [BT4.4](https://www.jdoodle.com/embed/v0/5CHl).
