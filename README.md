@@ -2,13 +2,13 @@
 
 ##Lý thuyết:
 
-[Bài 1: Các thành phần cơ bản trong ngôn ngữ C](https://hoctructuyencntt.github.io/NNLT/Bai01.html).
+- [Bài 1: Các thành phần cơ bản trong ngôn ngữ C](https://hoctructuyencntt.github.io/NNLT/Bai01.html).
 
-[Bài 2: Các câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html).
+- [Bài 2: Các câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html).
 
-[Bài 3: Các câu lệnh rẽ nhánh](https://hoctructuyencntt.github.io/NNLT/Bai03.html).
+- [Bài 3: Các câu lệnh rẽ nhánh](https://hoctructuyencntt.github.io/NNLT/Bai03.html).
 
-[Bài 4: Câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html).
+- [Bài 4: Câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html).
 
 ##Thực hành:
 
