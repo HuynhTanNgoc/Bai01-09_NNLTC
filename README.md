@@ -13,8 +13,8 @@
  [BT1.1](https://www.jdoodle.com/embed/v0/5yGY).
 
 - Bài 2: 
-  [BT2.1](https://www.jdoodle.com/embed/v0/5yH0).
- -[BT2.2](https://www.jdoodle.com/embed/v0/5yH1).
+ [BT2.1](https://www.jdoodle.com/embed/v0/5yH0).
+ [BT2.2](https://www.jdoodle.com/embed/v0/5yH1).
 
 - Bài 3: 
  [BT3.1](https://www.jdoodle.com/embed/v0/5Azi).
