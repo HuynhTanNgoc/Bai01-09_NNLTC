@@ -1,4 +1,4 @@
-# Baitap01den09_NNLTC
+# Bai01den09_NNLTC
 
 ##Lý thuyết:
 - [Bài 1: Các thành phần cơ bản trong ngôn ngữ C](https://hoctructuyencntt.github.io/NNLT/Bai01.html).
