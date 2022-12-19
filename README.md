@@ -27,3 +27,6 @@
  [BT4.2](https://www.jdoodle.com/embed/v0/5B31).
  [BT4.3]().Chưa
  [BT4.4](https://www.jdoodle.com/embed/v0/5CHl).
+
+- Bài 5:
+ [BT5.1](https://www.jdoodle.com/embed/v0/5EXl).
