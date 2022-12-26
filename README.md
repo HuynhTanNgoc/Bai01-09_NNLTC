@@ -18,7 +18,7 @@
 
 - Bài 3: 
  [BT3.1](https://www.jdoodle.com/embed/v0/5Azi).
- [BT3.2](https://www.jdoodle.com/embed/v0/5Axx).
+ [BT3.2](https://www.jdoodle.com/embed/v0/5FUE).
  [BT3.3](https://www.jdoodle.com/embed/v0/5AxE).
  [BT3.4](https://www.jdoodle.com/embed/v0/5AxU).
 
