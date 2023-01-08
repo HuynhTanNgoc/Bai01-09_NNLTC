@@ -30,3 +30,4 @@
 
 - Bài 5:
  [BT5.1](https://www.jdoodle.com/a/5EXl).
+ [BT5.2]Chưa.
