@@ -31,3 +31,6 @@
 - Bài 5:
  [BT5.1](https://www.jdoodle.com/a/5EXl).
  [BT5.2]Chưa.
+ 
+- Bài 6:
+ [BT6.1](https://www.jdoodle.com/a/5HJ5).
